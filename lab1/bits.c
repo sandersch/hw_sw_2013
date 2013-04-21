@@ -140,7 +140,7 @@ int bitXor(int x, int y) {
  *   Rating: 1
  */
 int thirdBits(void) {
-  return 2;
+  return  (0x49 << 24) | (0x24 << 16) | (0x92 << 8) | 0x49;
 }
 // Rating: 2
 /* 
